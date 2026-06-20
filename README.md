@@ -7,28 +7,28 @@ I'm an IT undergraduate at the **University of Moratuwa** passionate about build
 
 ---
 
-## 👩‍💻 About me
+##  About me
 
-- 🎓 BSc (Hons) Information Technology — University of Moratuwa, Sri Lanka
-- 💡 Passionate about full-stack development and backend engineering
-- 🌱 Currently deepening knowledge in React, Nest.js & AI/ML
-- 🤝 Open to collaborations on innovative web & software projects
-- 📫 Reach me at **gayangidevindi@gmail.com**
-
----
-
-## 🔍 Technical interests
-
-- ⚙️ Software Engineering
-- 🖥️ Full-Stack Development
-- 🛠️ Backend Development
-- 🤖 AI & Machine Learning
-- 🗄️ Database Systems
-- 🌐 Web Application Development
+-  BSc (Hons) Information Technology — University of Moratuwa, Sri Lanka
+-  Passionate about full-stack development and backend engineering
+-  Currently deepening knowledge in React, Nest.js & AI/ML
+-  Open to collaborations on innovative web & software projects
+-  Reach me at **gayangidevindi@gmail.com**
 
 ---
 
-## 🛠️ Technical skills
+##  Technical interests
+
+-  Software Engineering
+-  Full-Stack Development
+-  Backend Development
+-  AI & Machine Learning
+-  Database Systems
+-  Web Application Development
+
+---
+
+##  Technical skills
 
 | Category | Technologies |
 |---|---|
@@ -39,7 +39,7 @@ I'm an IT undergraduate at the **University of Moratuwa** passionate about build
 
 ---
 
-## 📊 GitHub stats
+##  GitHub stats
 
 
 
@@ -55,7 +55,7 @@ I'm an IT undergraduate at the **University of Moratuwa** passionate about build
 
 ---
 
-## 🤝 Connect with me
+##  Connect with me
 
 
 
@@ -70,4 +70,4 @@ I'm an IT undergraduate at the **University of Moratuwa** passionate about build
 
 
 
-  ⭐ Thanks for visiting — let's build something amazing together 🚀
+   Thanks for visiting — let's build something amazing together 🚀
