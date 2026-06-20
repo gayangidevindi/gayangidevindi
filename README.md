@@ -44,11 +44,11 @@ I'm an IT undergraduate at the **University of Moratuwa** passionate about build
 
 
 
-![Gayangi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=378ADD&icon_color=378ADD)
+![Gayangi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gayangidevindi&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=378ADD&icon_color=378ADD)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=378ADD)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gayangidevindi&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=378ADD)
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&area=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=gayangidevindi&theme=react-dark&hide_border=true&area=true)
 
 
 
