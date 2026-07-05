@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=378ADD&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Gayangi+Devindi+%F0%9F%91%8B;IT+Undergraduate+%40+UoM;Full-Stack+Developer;Backend+%26+Software+Engineer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=378ADD&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Gayangi+Devindi;IT+Undergraduate+%40+UoM;Full-Stack+Developer;Backend+%26+Software+Engineer)
 
 </div>
 
@@ -10,11 +10,11 @@ I'm an IT undergraduate at the **University of Moratuwa** passionate about build
 
 ## About me
 
-- 🎓 BSc (Hons) Information Technology — University of Moratuwa, Sri Lanka
-- 💻 Passionate about full-stack development and backend engineering
-- 📚 Currently deepening knowledge in React, Nest.js & AI/ML
-- 🤝 Open to collaborations on innovative web & software projects
-- 📫 Reach me at **gayangidevindi@gmail.com**
+- BSc (Hons) Information Technology — University of Moratuwa, Sri Lanka
+- Passionate about full-stack development and backend engineering
+- Currently deepening knowledge in React, Nest.js, and AI/ML
+- Open to collaborations on innovative web and software projects
+- Reach me at **gayangidevindi@gmail.com**
 
 ---
 
@@ -23,7 +23,7 @@ I'm an IT undergraduate at the **University of Moratuwa** passionate about build
 - Software Engineering
 - Full-Stack Development
 - Backend Development
-- AI & Machine Learning
+- AI and Machine Learning
 - Database Systems
 - Web Application Development
 
@@ -51,9 +51,7 @@ I'm an IT undergraduate at the **University of Moratuwa** passionate about build
 <div align="center">
 
 ![Gayangi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gayangidevindi&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=378ADD&icon_color=378ADD&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gayangidevindi&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=378ADD)
-
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=gayangidevindi&theme=react-dark&hide_border=true&area=true)
 
 </div>
@@ -74,6 +72,6 @@ I'm an IT undergraduate at the **University of Moratuwa** passionate about build
 
 <div align="center">
 
-Thanks for visiting — let's build something amazing together 🚀
+Thanks for visiting — let's build something amazing together.
 
 </div>
