@@ -56,12 +56,6 @@ I'm an IT undergraduate at the **University of Moratuwa** passionate about build
 
 </div>
 
-> **Note:** If the stats cards above show as broken images, it's almost always because the shared `github-readme-stats.vercel.app` demo server is rate-limited (it's used by millions of profiles). Fixes:
-> 1. Confirm `gayangidevindi` is your exact GitHub username (case-sensitive).
-> 2. Deploy your own free instance by forking [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) to Vercel, then swap the domain in the image URLs above for your own `.vercel.app` link.
-> 3. Make sure your GitHub profile isn't set to private and that you have at least one public repo.
-
----
 
 ## Connect with me
 
