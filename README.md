@@ -55,8 +55,8 @@ I enjoy designing scalable web applications, solving real-world problems through
 
 # 🚀 Featured Projects
 
-### 🏥 Smart Pharma Supplier Management System
-> A full-stack pharmacy supplier management platform developed using **React, Nest.js, Firebase, and Node.js**.
+### 🏥 Smart Pharmacy System
+> A full-stack pharmacy management platform developed using **React, Nest.js, Firebase, and tailwindcss**.
 
 ### ☕ Coffee Shop Management System
 > A web-based management system developed using **PHP**, **MySQL**, and **XAMPP**.
